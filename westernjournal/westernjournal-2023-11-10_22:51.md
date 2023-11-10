@@ -48,7 +48,7 @@ Sentiment Summary:
 - The critique of leadership competence, based on physicality and recollection discrepancies, introduces a sentiment of skepticism and questions about the suitability of individuals in their roles.
 
 - Overall, the sentiment is mixed, with a heavy lean towards the negative due to the focus on financial mismanagement, leadership crisis, and implications of public trust and competency within the scenarios discussed.
-#SPR
+# SPR
 - Michigan GOP's anti-establishment chair influences fundraising, crisis.
 - GOP imminent default on credit, emergency meeting for solutions.
 - GOP committee member Barefield resigns amid financial concerns.
