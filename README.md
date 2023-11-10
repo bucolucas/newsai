@@ -1,2 +1,2 @@
-# newsai Politics Branch
+# Politics Branch
 This will update itself with new politics summaries
